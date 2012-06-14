@@ -1,0 +1,11 @@
+author: Benjamin James Harrison-Sims
+database: false
+main: me.tehrainbowguy.xDonations.xDonations
+name: xDonations
+startup: postworld
+version: '1.6'
+commands:
+    xdonations:
+        description: Description
+        usage: /<command> [Amount] [Player name]
+depend: [Vault]
